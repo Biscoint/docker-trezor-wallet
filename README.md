@@ -14,11 +14,11 @@ If you have improvements or suggestions please open an issue or pull request on 
 ### Build
 To build the image:
 ```
-sudo docker build . -t bit4/trezor-wallet
+sudo docker build . -t bit4you2/trezor-wallet
 
 ```
 ### Running
 To simply run the container:
 ```
-sudo docker run -d -p 80:8080 bit4/trezor-wallet:latest
+sudo docker run -d -p 80:8080 bit4you2/trezor-wallet:latest
 ```
