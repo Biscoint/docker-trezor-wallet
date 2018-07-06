@@ -10,6 +10,10 @@ If you have improvements or suggestions please open an issue or pull request on 
 - [Run a local instance of Trezor Wallet](https://medium.com/@xbach/run-a-local-instance-of-trezor-wallet-442febc4ac81)
 
 ## Quick Start
+To pull from docker hub:
+```
+sudo docker pull bit4you2/trezor-wallet:latest
+```
 
 ### Build
 To build the image:
